@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhu Gunja</h1>
-<h3 align="center">Aspiring Java Developer | AI & ML Enthusiast | Full Stack Learner</h3>
+<h3 align="center">Passionate AI & ML Innovator | Creating Smart Solutions with Cutting-Edge Technologies | Full Stack Developer Exploring New Frontiers in Artificial Intelligence</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=madhu-gunja&label=Profile%20views&color=0e75b6&style=flat" alt="madhu-gunja" />

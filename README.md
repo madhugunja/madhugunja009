@@ -24,7 +24,7 @@
 
 
 
-<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=madhugunja&theme=tokyo-night"  </p> <p align="center"> username=madhugunjae&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=madhugunja&theme=tokyo-night"  </p> <p align="center"> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" /> </p>
 ---
 
 ## 📣 Connect with me:

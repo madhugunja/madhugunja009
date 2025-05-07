@@ -25,11 +25,11 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhu-gunja&show_icons=true&theme=tokyonight" alt="madhu-gunja" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhugunja&show_icons=true&theme=tokyonight" alt="madhu-gunja" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu-gunja&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhugunja&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -39,16 +39,16 @@
 <p align="center">
   <a href="mailto:madhugunja009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/madhu-gunja-7a9b41249/)/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/madhu-gunja"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/madhugunja"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
+🔭 I’m currently working on Python Projects and AI Models
 
-## ✨ About Me:
-- 🔭 I’m currently working on **Java Spring Boot Projects**
-- 🌱 I’m learning **Full Stack Web Development**
-- 👯 I’m looking to collaborate on **open-source and AI-based projects**
-- ⚡ Fun fact: *I love chess and tech gadgets*
+🌱 I’m exploring Machine Learning, Deep Learning, and Data Science
 
+👯 I’m looking to collaborate on AI, ML, and open-source projects
+
+⚡ Fun fact: I love chess, exploring AI tools, and tech gadgets
 ---
 

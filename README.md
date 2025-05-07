@@ -24,14 +24,7 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhugunja&show_icons=true&theme=tokyonight" alt="madhu-gunja" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhugunja&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=madhugunja&theme=tokyo-night" alt="GitHub Activity Graph" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=madhugunjae&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" /> </p>
 ---
 
 ## 📣 Connect with me:

@@ -1,4 +1,4 @@
-# madhugunja009
+# madhugunja
 
 <h1 align="center">Hi, I'm Madhu Gunja 🖐️</h1>
 <p align="center">I'm passionate about Java, Web Development, and AI/ML. Currently exploring Spring Boot and Angular.</p>
@@ -19,13 +19,13 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhu-gunja&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu-gunja&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhugunja&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhugunja&layout=compact&theme=radical" />
 </p>
 
 ## 📫 Get in Touch:
 <p>
   <a href="mailto:madhugunja009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/madhu-gunja"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/madhu-gunja/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/madhugunja"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a [href="https://www.linkedin.com/in/madhu-gunja](https://www.linkedin.com/in/madhu-gunja-7a9b41249/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
